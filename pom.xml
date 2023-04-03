@@ -65,7 +65,7 @@
     </dependencyManagement>
 
     <properties>
-        <framework.version>1.0.0-SNAPSHOT</framework.version>
+        <framework.version>${project.version}</framework.version>
 
         <!--    SpringBoot 、SpringCloud 版本       -->
         <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
